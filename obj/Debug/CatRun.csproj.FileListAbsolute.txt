@@ -1,0 +1,15 @@
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\bin\Debug\CatRun.exe.config
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\bin\Debug\CatRun.exe
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\bin\Debug\CatRun.pdb
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.csproj.AssemblyReference.cache
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.csproj.SuggestedBindingRedirects.cache
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.MainForm.resources
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.Properties.Resources.resources
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.csproj.GenerateResource.cache
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.csproj.CoreCompileInputs.cache
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.exe
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.pdb
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\bin\Debug\CatRun.exe.manifest
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\bin\Debug\CatRun.application
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.exe.manifest
+C:\Users\ichiru\Desktop\workspace\Visual Studio\CatRun\obj\Debug\CatRun.application
